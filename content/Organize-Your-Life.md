@@ -9,6 +9,10 @@ categories:
 tags:
 - adoption
 - tricolore
+menu:
+  main:
+    name: Les chats à adopter
+    weight: 3
 
 ---
 Sia est née aux Camp des Garrigues, à Nîmes, auprès des militaires et parmi d’autres chats.
